@@ -1,0 +1,16 @@
+:root {
+    --main-gr-color: #3bcbc8;
+    --second-wt-color: #c9c3c3;
+  }
+
+body {
+    color: var(--second-wt-color);
+}
+
+h1, h2, h3 {
+    color: var(--main-gr-color);
+}
+
+a {
+    color: var(--main-gr-color);
+}
